@@ -5,8 +5,6 @@ description: Blog personal sobre libros, jardinería, historia, programación y 
 featured_image: /images/vera_ams.jpg
 ---
 
-![](/images/vera_ikea_with_book.jpg)
-
 ## Un poco acerca de mi
 
 Me llamo Vera, nací en Moscú, Rusia, pero vivo en Bogotá, Colombia, 
